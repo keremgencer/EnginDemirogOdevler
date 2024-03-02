@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{CBB1C3CA-90A3-429F-9AC8-A53254976D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{DFC57B84-4290-469E-83E9-F73762226B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{1B2D1175-B50E-4FC4-8DE0-1A7A6FF0F2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB1C3CA-90A3-429F-9AC8-A53254976D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB1C3CA-90A3-429F-9AC8-A53254976D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB1C3CA-90A3-429F-9AC8-A53254976D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB1C3CA-90A3-429F-9AC8-A53254976D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC57B84-4290-469E-83E9-F73762226B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC57B84-4290-469E-83E9-F73762226B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC57B84-4290-469E-83E9-F73762226B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC57B84-4290-469E-83E9-F73762226B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2D1175-B50E-4FC4-8DE0-1A7A6FF0F2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2D1175-B50E-4FC4-8DE0-1A7A6FF0F2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2D1175-B50E-4FC4-8DE0-1A7A6FF0F2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2D1175-B50E-4FC4-8DE0-1A7A6FF0F2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FAB6D0-F25A-4B14-8A9D-EC7718A45155}
+	EndGlobalSection
+EndGlobal
